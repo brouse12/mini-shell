@@ -4,5 +4,5 @@
 - Can pipe values between commands
 
 # Execution
-Compile with GCC or Clang
-Run with ./shell
+- Compile with GCC or Clang
+- Run with ./shell
