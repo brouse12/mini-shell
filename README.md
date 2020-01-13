@@ -1,5 +1,5 @@
 # Mini-Shell
-- Custom command line shell that uses standard shell commands
+- Custom Unix command line shell that uses standard shell commands
 - Can incorporate new shell commands using function pointers
 - Can pipe values between commands
 
